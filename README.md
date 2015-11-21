@@ -1,0 +1,2 @@
+# SnapKitSample
+SnapKitを使ったサンプルです。
